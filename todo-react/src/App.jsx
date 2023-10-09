@@ -3,7 +3,7 @@ const App = () => {
     <div className="bg-[url('./assets/images/bg-mobile-light.jpg')] bg-no-repeat bg-cover bg-center">
         <header className="container mx-auto px-4">
             <h1 className="">TODO</h1>
-            <button>Doing some changes</button>
+            <button>Doing some changeS</button>
             <form>
                 <input type="text" placeholder="Create a new todo..." />
             </form>
